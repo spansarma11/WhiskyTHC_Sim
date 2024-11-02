@@ -1,2 +1,2 @@
 # WhiskyTHC_Sim
-WhiskyTHC with instead of Batchtools
+WhiskyTHC with Simfactory instead of Batchtools
